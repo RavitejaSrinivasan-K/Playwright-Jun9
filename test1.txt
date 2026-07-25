@@ -1,1 +1,2 @@
-Hi everyone
+Hi everyone 
+today session is git & github
